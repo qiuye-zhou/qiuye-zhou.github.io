@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ff31ddb2","path":"/us/type.html","title":"Type","lang":"en-US","frontmatter":{"title":"Type"},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"us/type.md"}');export{t as data};
