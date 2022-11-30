@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-347cfe9d","path":"/us/useDocumentVisibility.html","title":"useDocumentVisibility","lang":"en-US","frontmatter":{"title":"useDocumentVisibility"},"excerpt":"","headers":[{"level":2,"title":"Use","slug":"use","link":"#use","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"us/useDocumentVisibility.md"}');export{e as data};
